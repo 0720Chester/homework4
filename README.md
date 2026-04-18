@@ -41,3 +41,6 @@ pip install taichi
 - 运行时若出现卡顿，可降低画布分辨率（修改代码中 WIDTH、HEIGHT 参数）。
 - 若 PyCharm 上传 GitHub 失败，可直接通过 GitHub 网页上传 phong_renderer.py 和 README.md 文件。
 - 确保 Taichi 版本为最新，避免因版本兼容问题导致渲染异常。
+  图片展示
+  <img width="823" height="657" alt="image" src="https://github.com/user-attachments/assets/ca3187c2-0a37-4e9c-b990-5d395dbeb110" />
+
